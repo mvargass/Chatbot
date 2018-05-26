@@ -19,6 +19,7 @@ public class PreguntaNoContestada {
         this.Respuesta="";
     }
 
+    
     public String getPregunta() {
         return pregunta;
     }
