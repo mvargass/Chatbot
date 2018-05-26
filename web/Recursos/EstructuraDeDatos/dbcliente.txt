@@ -1,0 +1,6 @@
+{"id":1, "nombre":"Jose Eduardo Garcia", "fecha":"12/03/1990", "nit":"6454654650101", "direccion":"4av. 65-32 Zona 2", "telefono":"4654-8989", "dpi":"6465465465655"}
+{"id":2, "nombre":"Alex Garcia", "fecha":"12/03/1995", "nit":"64344654650101", "direccion":"2av. 89-96 Zona 3", "telefono":"4654-7898", "dpi":"6465789465655"}
+{"id":3,"nombre":"Oscar Luna","fecha":"14/02/1995","nit":"4654687654555455","direccion":"2av. 45-95 Zona 5, Guatemala","telefono":"4654-5542","dpi":"4646546546650101"}
+{"id":4,"nombre":"Alejandro Garcia","fecha":"12/03/1998","nit":"46465464646546","direccion":"2av. 36-96 Zona 2, Guatemala","telefono":"46546546546545","dpi":"4654654654654"}
+{"id":5,"nombre":"Jose Humberto Cuevas","fecha":"12/03/1998","nit":"4654654655555","direccion":"1av. 45-89 Zona 9, Guatemala","telefono":"4654-4565","dpi":"4654654654654"}
+{"id":6,"nombre":"Guillermo Marroquin","fecha":"25/02/1997","nit":"4654654654655","direccion":"4 av. 78-96 Zona 10, Guatemala","telefono":"4598-9654","dpi":"4654654655544"}

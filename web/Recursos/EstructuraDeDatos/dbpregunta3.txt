@@ -1,0 +1,80 @@
+{"id":1,"pregunta":"hola","Respuesta":"Hola En que te puedo ayudar"}
+{"id":2,"pregunta":"hola que tal","Respuesta":"Bien grancia ¿En que te puedo ayudar?"}
+{"id":3,"pregunta":"que puedo hacer","Respuesta":"Puedes comprar consultar ver ordenes cancelar pedidos"}
+{"id":4,"pregunta":"hola tengo una consultar","Respuesta":"Claro ¿Que quieres consultar?"}
+{"id":5,"pregunta":"buen dia","Respuesta":"Buen Dias En que te puedo ayudar"}
+{"id":6,"pregunta":"como estas","Respuesta":"Bien gracias y Tu"}
+{"id":7,"pregunta":"como te llamas","Respuesta":"Me llamo Chatbot de Restaurante del Grupo 1"}
+{"id":8,"pregunta":"cual es tu proposito","Respuesta":"Es brindarte una asistencia para pedidos, consultar de nuestro restaurante"}
+{"id":9,"pregunta":"bien gracias","Respuesta":"Que me alegro En que te puedo ayudar"}
+{"id":10,"pregunta":"gracias","Respuesta":"De nada"}
+{"id":11,"pregunta":"cerrar sesion","Respuesta":"Espere"}
+{"id":12,"pregunta":"hola como estas","Respuesta":"Hola Bien gracias por preguntar En que te puedo ayudar"}
+{"id":13,"pregunta":"como te llamas","Respuesta":"Me llamo Chatbot de Restaurante de Grupo 1"}
+{"id":14,"pregunta":"cual es tu proposito como chatbot", "Respuesta":"Es brindarte una asistencia para pedidos, consultar de nuestro restaurante"}
+{"id":15,"pregunta":"bien gracias por preguntar", "Respuesta":"Que me alegro, En que te puedo ayudar"}
+{"id":16,"pregunta":"te lo agredezco", "Respuesta":"De nada"}
+{"id":17,"pregunta":"quiero cerrar sesion", "Respuesta":"Espere"}
+{"id":18,"pregunta":"hola como estas tu", "Respuesta":"Hola, Bien gracias por preguntar En que te puedo ayudar"}
+{"id":19,"pregunta":"buen dia como te llamas", "Respuesta":"Me llamo ChatBot de Restaurante del Grupo 1"}
+{"id":20,"pregunta":"cual es tu meta", "Respuesta":"Es brindarte una asistencia para pedidos consultar de nuestro restaurante"}
+{"id":21,"pregunta":"que grupo te hizo", "Respuesta":"Grupo 1"}
+{"id":22,"pregunta":"bien", "Respuesta":"Que gusto En que te puedo ayudar"}
+{"id":23,"pregunta":"quien soy", "Respuesta":"Sos un Cliente"}
+{"id":24,"pregunta":"que venden", "Respuesta":"Comida de alta calidad a precios economicos"}
+{"id":25,"pregunta":"que tipo de comida venden", "Respuesta":"Hamburguesas Papas Fritas entre otros"}
+{"id":26,"pregunta":"quiero ver mis pedidos", "Respuesta":"..."}
+{"id":27,"pregunta":"quiero comprar", "Respuesta":"Vas a comprar Al credito Al debito o Al Efectivo"}
+{"id":28,"pregunta":"quiero cancelar un pedido", "Respuesta":"..."}
+{"id":29,"pregunta":"quiero consultar", "Respuesta":"De que quieres consultar"}
+{"id":30,"pregunta":"al credito", "Respuesta":"Escribe Quiero comprar un menu Al Credito"}
+{"id":31,"pregunta":"al efectivo", "Respuesta":"Escribe Quiero comprar un menu Al Efectivo"}
+{"id":32,"pregunta":"al debito", "Respuesta":"Escribe Quiero comprar un menu Al Debito"}
+{"id":33,"pregunta":"adios", "Respuesta":"Hasta Pronto"}
+{"id":34,"pregunta":"gracias", "Respuesta":"De nada"}
+{"id":35,"pregunta":"adios", "Respuesta":"Hasta la proxima"}
+{"id":36,"pregunta":"gracias por Atenderme", "Respuesta":"De nada fue un gusto"}
+{"id":37,"pregunta":"quiero salir", "Respuesta":"Por favor da clic en Preguntar-> Cerrar Sesion"}
+{"id":38,"pregunta":"te lo agradezco", "Respuesta":"Fue un placer"}
+{"id":39,"pregunta":"como son las formas de pago", "Respuesta":"Son al credito, debito y efectivo"}
+{"id":40,"pregunta":"quiero consultar un menu", "Respuesta":"Espere"}
+{"id":41,"pregunta":"que unidad monteria se puede pagar", "Respuesta":"Hola Se puede pagar solamente con Quetzales"}
+{"id":42,"pregunta":"se puede pagar al efectivo", "Respuesta":"Claro se puede pagar al efectivo"}
+{"id":43,"pregunta":"se puede pagar al credito", "Respuesta":"Claro se puede pagar al credito y tambien al debito"}
+{"id":44,"pregunta":"con que moneda puedo pagar", "Respuesta":"Con Quetzales"}
+{"id":45,"pregunta":"fue un gusto conocerte", "Respuesta":"Igualmente (para Cerrar sesion Preguntar>Cerrar Sesion)"}
+{"id":46,"pregunta":"mi orden no ha llegado", "Respuesta":"Claro, Escribe Quiero ver mis pedidos"}
+{"id":47,"pregunta":"cuanto se tardan en venir", "Respuesta":"Entre 30 minutos dependiendo la orden"}
+{"id":48,"pregunta":"quiero cancelar mi pedido", "Respuesta":"..."}
+{"id":49,"pregunta":"hola que tal tu dia", "Respuesta":"Hola asombro ¿En que te puedo ayudar?"}
+{"id":50,"pregunta":"hola chatBot", "Respuesta":"Hola En que te puedo ayudar"}
+{"id":51,"pregunta":"hasta pronto que tengas un buen dia", "Respuesta":"Hasta la proxima"}
+{"id":52,"pregunta":"hasta pronto", "Respuesta":"Hasta la proxima"}
+{"id":53,"pregunta":"mucho gusto", "Respuesta":"En que te puedo ayudar"}
+{"id":54,"pregunta":"hola como estas en tu dia", "Respuesta":"Bien gracias me va bien ¿En que te puedo ayudar?"}
+{"id":55,"pregunta":"cual es tu nombre", "Respuesta":"Mi nombre es Chatbot de Restaurante del Grupo 1 pero me puedes decir ChatBot"}
+{"id":56,"pregunta":"chatbot", "Respuesta":"Hola en que te puedo ayudar"}
+{"id":57,"pregunta":"es un gusto conocerte", "Respuesta":"En que te puedo ayudar"}
+{"id":58,"pregunta":"hola cual es tu nombre", "Respuesta":"Mi nombre es Chatbot de Restaurante del Grupo 1 pero me puedes decir ChatBot"}
+{"id":59,"pregunta":"quiero comprar un menu al credito", "Respuesta":"..."}
+{"id":60,"pregunta":"quiero comprar un menu al debito", "Respuesta":"..."}
+{"id":61,"pregunta":"quiero comprar un menu al efectivo", "Respuesta":"..."}
+{"id":62,"pregunta":"cual es el especial del dia", "Respuesta":"..."}
+{"id":63,"pregunta":"hola chatbot como te llamas", "Respuesta":"Mi nombre es Chatbot de Restaurante del Grupo 1 pero me puedes decir ChatBot"}
+{"id":64,"pregunta":"chatbot como estas", "Respuesta":"Hola bien, ¿En que te puedo ayudar?"}
+{"id":65,"pregunta":"chatbot como te encuentras el dia de hoy", "Respuesta":"Hola me encuentro excelente, ¿En que te puedo ayudar?"}
+{"id":66,"pregunta":"chatbot quiero comprar", "Respuesta":"Vas a comprar Al credito Al debito o Al Efectivo"}
+{"id":67,"pregunta":"chatbot quiero consultar", "Respuesta":"¿De que quieres consultar? un menu o tus pedidos"}
+{"id":68,"pregunta":"un menu", "Respuesta":"Escribe Quiero consultar un menu"}
+{"id":69,"pregunta":"mis pedidos", "Respuesta":"Escribe Quiero consultar mis pedidos"}
+{"id":70,"pregunta":"chatbot cual es tu nombre", "Respuesta":"Mi nombre es Chatbot de Restaurante del Grupo 1 pero me puedes decir ChatBot"}
+{"id":71,"pregunta":"chatbot que hora son", "Respuesta":"..."}
+{"id":72,"pregunta":"que hora son", "Respuesta":"..."}
+{"id":73,"pregunta":"chatbot quiero comprar", "Respuesta":"Vas a comprar Al credito Al debito o Al Efectivo"}
+{"id":74,"pregunta":"chatbot quiero consultar", "Respuesta":"¿De que quieres consultar? un menu o tus pedidos"}
+{"id":75,"pregunta":"quiero ver mis ordenes", "Respuesta":"..."}
+{"id":76,"pregunta":"quiero ver mis pedidos", "Respuesta":"..."}
+{"id":77,"pregunta":"salir", "Respuesta":"Por favor da clic en Preguntar Cerrar Sesion"}
+{"id":78,"pregunta":"quiero ver el menu", "Respuesta":"..."}
+{"id":79,"pregunta":"quiero ver menu", "Respuesta":"..."}
+{"id":80,"pregunta":"me puedes decir tu nombre", "Respuesta":"¡Claro con mucho gusto! Mi nombre es Chatbot de Restaurante del Grupo 1 pero me puedes decir ChatBot"}

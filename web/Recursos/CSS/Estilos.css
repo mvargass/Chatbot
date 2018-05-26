@@ -1,0 +1,64 @@
+
+/* 
+    Created on : 9/04/2018, 09:58:27 PM
+    Author     : Grupo 1
+*/
+
+/*
+Declara algunos reglamentos que tiene que cumplir cada pagina
+*/
+#table1 {
+    border: 20px solid rgba(0,0,0,0.3);
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    width: 200px;
+    position: absolute;
+    top:50px;
+    left:50px;
+    background-color: white;
+    
+}
+
+tablero{
+    background-color: white; 
+    border: 20px solid rgba(0,0,0,0.3); 
+    -moz-background-clip: padding-box; 
+    -webkit-background-clip: padding-box; 
+    background-clip: padding-box;  
+}
+
+table10, h10{
+    background-color: white; 
+    border: 20px solid rgba(0,0,0,0.3); 
+    -moz-background-clip: padding-box; 
+    -webkit-background-clip: padding-box; 
+    background-clip: padding-box;
+}
+
+Tabla, Titulo1{
+    border: 20px solid rgba(0,0,0,0.3); 
+    -moz-background-clip: padding-box; 
+    -webkit-background-clip: padding-box; 
+    width: 200px;   
+    background-color: white; 
+    background-clip: padding-box;
+    font-size:50px; 
+}
+
+#button {
+    background-color: black; 
+    color:white;  
+    font-size:50px       
+}
+
+#h1 {
+    border: 20px solid rgba(0,0,0,0.3); 
+    -moz-background-clip: padding-box; 
+    -webkit-background-clip: padding-box; 
+    background-clip: padding-box; 
+    background-color: white;       
+}
+
+
+/*background-color: white; font-size:50px;*/
+
